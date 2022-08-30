@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>markdown语法</title>
+      <link href="/glm.io/2022/08/30/markdown%E8%AF%AD%E6%B3%95/"/>
+      <url>/glm.io/2022/08/30/markdown%E8%AF%AD%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<p>markdown是一种标记语言或笔记语言，语法简单。官方网站：<a href="https://markdown.com.cn/">Markdown 官方教程</a></p><h2 id="1-基础语法："><a href="#1-基础语法：" class="headerlink" title="1. 基础语法："></a>1. 基础语法：</h2><table><thead><tr><th align="left">元素</th><th>Markdown 语法</th></tr></thead><tbody><tr><td align="left">标题（Heading）</td><td># H1<br />## H2<br />### H3</td></tr><tr><td align="left">换行</td><td>两个空格＋换行</td></tr><tr><td align="left">粗体（Bold）</td><td>**bold text**</td></tr><tr><td align="left">斜体（Italic）</td><td>*italicized text*</td></tr><tr><td align="left">引用块（Blockquote）</td><td>&gt;  blockquote</td></tr><tr><td align="left">有序列表（Ordered List）</td><td>1. First item<br>2. Second item<br>3. Third item</td></tr><tr><td align="left">无序列表（Unordered List）</td><td>- First item<br>- Second item<br>- Third item</td></tr><tr><td align="left">代码（Code）</td><td>`code`</td></tr><tr><td align="left">分隔线（Horizontal Rule）</td><td>-–</td></tr><tr><td align="left">链接（Link）</td><td>[title](<a href="https://www.example.com/">https://www.example.com\</a>)</td></tr><tr><td align="left">图片（Image）</td><td>![alt text](image.jpg)</td></tr></tbody></table><h2 id="2-扩展语法"><a href="#2-扩展语法" class="headerlink" title="2. 扩展语法"></a>2. 扩展语法</h2><p>这些元素通过添加额外的功能扩展了基本语法。但是，并非所有 Markdown 应用程序都支持这些元素。</p><table><thead><tr><th>元素</th><th>Markdown 语法</th></tr></thead><tbody><tr><td>表格（Table）冒号代表对其方式</td><td>| Syntax | Description |<br>| -———- | ———– |<br>| :Header: | Title |<br>| Paragraph | Text |</td></tr><tr><td>代码块（Fenced Code Block）</td><td>``` 语言<br /><br />```</td></tr><tr><td>脚注（Footnote）</td><td>Here’s a sentence with a footnote. [^1]<br>[^1]: This is the footnote.</td></tr><tr><td>标题编号（Heading ID）</td><td>### My Great Heading</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Typora+PicGo的安装使用</title>
       <link href="/glm.io/2022/08/29/Typora+PicGo%E7%9A%84%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/"/>
       <url>/glm.io/2022/08/29/Typora+PicGo%E7%9A%84%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/</url>
