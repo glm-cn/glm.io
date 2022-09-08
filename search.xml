@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>win版iCloud使用bug</title>
+      <link href="/glm.io/2022/09/08/win%E7%89%88iCloud%E4%BD%BF%E7%94%A8bug/"/>
+      <url>/glm.io/2022/09/08/win%E7%89%88iCloud%E4%BD%BF%E7%94%A8bug/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-Windows删除icloud后资源管理器icloud图标无法删除"><a href="#1-Windows删除icloud后资源管理器icloud图标无法删除" class="headerlink" title="1. Windows删除icloud后资源管理器icloud图标无法删除"></a>1. <a href="https://www.zhihu.com/question/393865503">Windows删除icloud后资源管理器icloud图标无法删除</a></h2><ul><li><p>现象：</p><img src="https://raw.githubusercontent.com/glm-cn/pictures/main/img/v2-cd3c71c2ea1ae33750e85dfb5f9fb6ad_r.jpg" style="zoom: 66%;" /></li><li><p>解决：</p><ol><li><p>注册表path：</p><p><code>计算机\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace</code></p></li><li><p>下面的子文件，但凡包含icloud,     删除；里面含有onedrive或其他的，不可删除。</p></li></ol></li></ul><h2 id="2-icloud-登陆后重复要求密码"><a href="#2-icloud-登陆后重复要求密码" class="headerlink" title="2. icloud 登陆后重复要求密码"></a>2. icloud 登陆后重复要求密码</h2><ul><li><p>现象</p><img src="https://raw.githubusercontent.com/glm-cn/pictures/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-09-08%20133946.png" style="zoom: 50%;" /></li><li><p>Windows应用商店内iCloud（13.xxx）存在bug，从其他途径下载，使用其他（较低）版本后功能正常</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> Windows </category>
+          
+          <category> apple </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> issue </tag>
+            
+            <tag> icloud </tag>
+            
+            <tag> apple </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>markdown语法</title>
       <link href="/glm.io/2022/08/30/markdown%E8%AF%AD%E6%B3%95/"/>
       <url>/glm.io/2022/08/30/markdown%E8%AF%AD%E6%B3%95/</url>
